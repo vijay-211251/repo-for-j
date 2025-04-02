@@ -1,2 +1,2 @@
 print("hi jenki") 
-echo ("how are you")
+print("how are you")
